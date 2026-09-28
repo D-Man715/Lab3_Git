@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Archivos iniciales"
+git branch -M main
+git remote add origin https://github.com/TU_USUARIO/laboratorio-3-git.git
+git push -u origin main

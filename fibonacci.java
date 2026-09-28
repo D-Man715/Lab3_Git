@@ -18,3 +18,4 @@ public class fibonacci {
         generarSerie(n);
     }
 }
+//Autor: manfred omar Lopez Valero
